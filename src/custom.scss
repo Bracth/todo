@@ -1,0 +1,44 @@
+@use "./scss/body";
+
+//custom variables//
+
+$dark: hsl(235, 21%, 11%);
+$primary: hsl(235, 24%, 19%);
+$secondary: hsl(234, 39%, 85%);
+
+//custom input//
+
+$input-bg: $primary;
+$input-border-color: $primary;
+$input-color: $secondary;
+#todo-input {
+  height: 50px;
+}
+
+//custom list//
+
+$list-group-bg: $primary;
+$list-group-color: $secondary;
+.list-group-item {
+  height: 50px;
+}
+
+//custom chekbox//
+
+$form-check-input-border-radius: 50%;
+$form-check-input-width: 1.3em;
+$form-check-input-border: 1px solid $secondary;
+$form-check-input-checked-border-color: $secondary;
+
+//custom container//
+
+$container-max-widths: (
+  XS: 540px,
+  sm: 540px,
+  md: 540px,
+  lg: 540px,
+  xl: 540px,
+  xxl: 540px,
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";

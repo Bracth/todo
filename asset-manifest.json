@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bracth/todo.git/static/css/main.8e708eb4.chunk.css",
+    "main.js": "/Bracth/todo.git/static/js/main.6f1ff09e.chunk.js",
+    "main.js.map": "/Bracth/todo.git/static/js/main.6f1ff09e.chunk.js.map",
+    "runtime-main.js": "/Bracth/todo.git/static/js/runtime-main.5263e1ad.js",
+    "runtime-main.js.map": "/Bracth/todo.git/static/js/runtime-main.5263e1ad.js.map",
+    "static/js/2.104de3a7.chunk.js": "/Bracth/todo.git/static/js/2.104de3a7.chunk.js",
+    "static/js/2.104de3a7.chunk.js.map": "/Bracth/todo.git/static/js/2.104de3a7.chunk.js.map",
+    "index.html": "/Bracth/todo.git/index.html",
+    "static/css/main.8e708eb4.chunk.css.map": "/Bracth/todo.git/static/css/main.8e708eb4.chunk.css.map",
+    "static/js/2.104de3a7.chunk.js.LICENSE.txt": "/Bracth/todo.git/static/js/2.104de3a7.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop-dark.73e47dbb.jpg": "/Bracth/todo.git/static/media/bg-desktop-dark.73e47dbb.jpg",
+    "static/media/bg-desktop-light.3508d620.jpg": "/Bracth/todo.git/static/media/bg-desktop-light.3508d620.jpg",
+    "static/media/icon-cross.6ee81d30.svg": "/Bracth/todo.git/static/media/icon-cross.6ee81d30.svg",
+    "static/media/icon-moon.6c03114b.svg": "/Bracth/todo.git/static/media/icon-moon.6c03114b.svg",
+    "static/media/icon-sun.910b1f9a.svg": "/Bracth/todo.git/static/media/icon-sun.910b1f9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5263e1ad.js",
+    "static/js/2.104de3a7.chunk.js",
+    "static/css/main.8e708eb4.chunk.css",
+    "static/js/main.6f1ff09e.chunk.js"
+  ]
+}
